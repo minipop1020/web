@@ -1,0 +1,14 @@
+body {
+     background-color: lightgray;
+     padding: 30px:
+}
+
+h1 {
+    color: blue;
+    font-size: 36px;
+}
+
+ul {
+      display: flex;
+      gap: 20px;
+}
